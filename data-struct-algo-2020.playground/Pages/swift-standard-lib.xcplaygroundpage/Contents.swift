@@ -54,4 +54,4 @@ var bag: Set<String> = ["Candy", "Juice", "Gummy"]
 bag.insert("Candy")
 print(bag)
 
-//: [Next](https://github.com/iyinraphael/data-algo-in--swift/blob/master/linked-list.md)
+
