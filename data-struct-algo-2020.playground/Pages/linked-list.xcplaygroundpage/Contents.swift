@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Previous](https://github.com/iyinraphael/data-algo-in--swift/blob/master/swift-standard-lib.md)
 
 import Foundation
 
