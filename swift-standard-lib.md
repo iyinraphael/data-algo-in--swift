@@ -54,5 +54,5 @@ var bag: Set<String> = ["Candy", "Juice", "Gummy"]
 bag.insert("Candy")
 print(bag)
 
-//: [Next](@next)
+//: [Next](@linked-list.md)
 
